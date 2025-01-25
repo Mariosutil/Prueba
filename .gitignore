@@ -1,2 +1,5 @@
 # Archivos a ignorar
 ignorar.txt 
+
+# Ignorar directorios
+Confidencial/
